@@ -4,7 +4,7 @@ import React from 'react';
 function Header(){
     return(
         <nav>
-            <h1>Header goes here</h1>
+            <h1>Choones</h1>
             
             
 
